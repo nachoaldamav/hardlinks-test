@@ -1,0 +1,14 @@
+{
+  "flatted": {
+    "3.2.7": {
+      "path": "/home/ialdama/.ultra-cache/flatted/3.2.7",
+      "tarball": "https://registry.npmjs.org/flatted/-/flatted-3.2.7.tgz"
+    }
+  },
+  "rimraf": {
+    "3.0.2": {
+      "path": "/home/ialdama/.ultra-cache/rimraf/3.0.2",
+      "tarball": "https://registry.npmjs.org/rimraf/-/rimraf-3.0.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "kleur": {
+    "3.0.3": {
+      "path": "/home/ialdama/.ultra-cache/kleur/3.0.3",
+      "tarball": "https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz"
+    }
+  },
+  "sisteransi": {
+    "1.0.5": {
+      "path": "/home/ialdama/.ultra-cache/sisteransi/1.0.5",
+      "tarball": "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
+    }
+  }
+}

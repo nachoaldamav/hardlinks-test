@@ -1,0 +1,26 @@
+{
+  "js-yaml": {
+    "3.14.1": {
+      "path": "/home/ialdama/.ultra-cache/js-yaml/3.14.1",
+      "tarball": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.1.tgz"
+    }
+  },
+  "kind-of": {
+    "6.0.3": {
+      "path": "/home/ialdama/.ultra-cache/kind-of/6.0.3",
+      "tarball": "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz"
+    }
+  },
+  "section-matter": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/section-matter/1.0.0",
+      "tarball": "https://registry.npmjs.org/section-matter/-/section-matter-1.0.0.tgz"
+    }
+  },
+  "strip-bom-string": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/strip-bom-string/1.0.0",
+      "tarball": "https://registry.npmjs.org/strip-bom-string/-/strip-bom-string-1.0.0.tgz"
+    }
+  }
+}

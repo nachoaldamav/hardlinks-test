@@ -1,0 +1,5 @@
+[35m@astrojs/netlify:build: [0mcache hit, replaying output [2m6196538008b5a00a[0m
+[35m@astrojs/netlify:build: [0m
+[35m@astrojs/netlify:build: [0m> @astrojs/netlify@1.0.2 build /home/runner/work/astro/astro/packages/integrations/netlify
+[35m@astrojs/netlify:build: [0m> astro-scripts build "src/**/*.ts" && tsc
+[35m@astrojs/netlify:build: [0m

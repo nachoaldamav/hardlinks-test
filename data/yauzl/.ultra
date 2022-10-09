@@ -1,0 +1,14 @@
+{
+  "fd-slicer": {
+    "1.1.0": {
+      "path": "/home/ialdama/.ultra-cache/fd-slicer/1.1.0",
+      "tarball": "https://registry.npmjs.org/fd-slicer/-/fd-slicer-1.1.0.tgz"
+    }
+  },
+  "buffer-crc32": {
+    "0.2.13": {
+      "path": "/home/ialdama/.ultra-cache/buffer-crc32/0.2.13",
+      "tarball": "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.2.13.tgz"
+    }
+  }
+}

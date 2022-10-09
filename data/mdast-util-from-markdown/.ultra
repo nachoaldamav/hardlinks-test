@@ -1,0 +1,38 @@
+{
+  "decode-named-character-reference": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/decode-named-character-reference/1.0.2",
+      "tarball": "https://registry.npmjs.org/decode-named-character-reference/-/decode-named-character-reference-1.0.2.tgz"
+    }
+  },
+  "mdast-util-to-string": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-to-string/3.1.0",
+      "tarball": "https://registry.npmjs.org/mdast-util-to-string/-/mdast-util-to-string-3.1.0.tgz"
+    }
+  },
+  "micromark": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark/3.1.0",
+      "tarball": "https://registry.npmjs.org/micromark/-/micromark-3.1.0.tgz"
+    }
+  },
+  "micromark-util-decode-numeric-character-reference": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-decode-numeric-character-reference/1.0.0",
+      "tarball": "https://registry.npmjs.org/micromark-util-decode-numeric-character-reference/-/micromark-util-decode-numeric-character-reference-1.0.0.tgz"
+    }
+  },
+  "micromark-util-decode-string": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-decode-string/1.0.2",
+      "tarball": "https://registry.npmjs.org/micromark-util-decode-string/-/micromark-util-decode-string-1.0.2.tgz"
+    }
+  },
+  "micromark-util-normalize-identifier": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-normalize-identifier/1.0.0",
+      "tarball": "https://registry.npmjs.org/micromark-util-normalize-identifier/-/micromark-util-normalize-identifier-1.0.0.tgz"
+    }
+  }
+}

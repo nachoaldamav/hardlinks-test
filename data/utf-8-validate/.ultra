@@ -1,0 +1,8 @@
+{
+  "node-gyp-build": {
+    "4.5.0": {
+      "path": "/home/ialdama/.ultra-cache/node-gyp-build/4.5.0",
+      "tarball": "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.5.0.tgz"
+    }
+  }
+}

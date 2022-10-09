@@ -1,0 +1,8 @@
+{
+  "agent-base": {
+    "6.0.2": {
+      "path": "/home/ialdama/.ultra-cache/agent-base/6.0.2",
+      "tarball": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "defaults": {
+    "1.0.3": {
+      "path": "/home/ialdama/.ultra-cache/defaults/1.0.3",
+      "tarball": "https://registry.npmjs.org/defaults/-/defaults-1.0.3.tgz"
+    }
+  }
+}

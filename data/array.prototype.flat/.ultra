@@ -1,0 +1,14 @@
+{
+  "call-bind": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/call-bind/1.0.2",
+      "tarball": "https://registry.npmjs.org/call-bind/-/call-bind-1.0.2.tgz"
+    }
+  },
+  "es-shim-unscopables": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/es-shim-unscopables/1.0.0",
+      "tarball": "https://registry.npmjs.org/es-shim-unscopables/-/es-shim-unscopables-1.0.0.tgz"
+    }
+  }
+}

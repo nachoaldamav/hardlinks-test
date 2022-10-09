@@ -1,0 +1,20 @@
+{
+  "@types/mdast": {
+    "3.0.10": {
+      "path": "/home/ialdama/.ultra-cache/@types/mdast/3.0.10",
+      "tarball": "https://registry.npmjs.org/@types/mdast/-/mdast-3.0.10.tgz"
+    }
+  },
+  "mdast-util-gfm": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm/2.0.1",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm/-/mdast-util-gfm-2.0.1.tgz"
+    }
+  },
+  "micromark-extension-gfm": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm/2.0.1",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm/-/micromark-extension-gfm-2.0.1.tgz"
+    }
+  }
+}

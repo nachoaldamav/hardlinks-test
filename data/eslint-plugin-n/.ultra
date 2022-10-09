@@ -1,0 +1,38 @@
+{
+  "builtins": {
+    "5.0.1": {
+      "path": "/home/ialdama/.ultra-cache/builtins/5.0.1",
+      "tarball": "https://registry.npmjs.org/builtins/-/builtins-5.0.1.tgz"
+    }
+  },
+  "eslint-plugin-es": {
+    "4.1.0": {
+      "path": "/home/ialdama/.ultra-cache/eslint-plugin-es/4.1.0",
+      "tarball": "https://registry.npmjs.org/eslint-plugin-es/-/eslint-plugin-es-4.1.0.tgz"
+    }
+  },
+  "eslint-utils": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/eslint-utils/3.0.0",
+      "tarball": "https://registry.npmjs.org/eslint-utils/-/eslint-utils-3.0.0.tgz"
+    }
+  },
+  "ignore": {
+    "5.2.0": {
+      "path": "/home/ialdama/.ultra-cache/ignore/5.2.0",
+      "tarball": "https://registry.npmjs.org/ignore/-/ignore-5.2.0.tgz"
+    }
+  },
+  "is-core-module": {
+    "2.10.0": {
+      "path": "/home/ialdama/.ultra-cache/is-core-module/2.10.0",
+      "tarball": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.10.0.tgz"
+    }
+  },
+  "semver": {
+    "7.3.8": {
+      "path": "/home/ialdama/.ultra-cache/semver/7.3.8",
+      "tarball": "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
+    }
+  }
+}

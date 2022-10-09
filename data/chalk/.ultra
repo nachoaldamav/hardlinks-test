@@ -1,0 +1,20 @@
+{
+  "ansi-styles": {
+    "3.2.1": {
+      "path": "/home/ialdama/.ultra-cache/ansi-styles/3.2.1",
+      "tarball": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
+    }
+  },
+  "escape-string-regexp": {
+    "1.0.5": {
+      "path": "/home/ialdama/.ultra-cache/escape-string-regexp/1.0.5",
+      "tarball": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+    }
+  },
+  "supports-color": {
+    "5.5.0": {
+      "path": "/home/ialdama/.ultra-cache/supports-color/5.5.0",
+      "tarball": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz"
+    }
+  }
+}

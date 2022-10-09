@@ -1,0 +1,14 @@
+{
+  "has-property-descriptors": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/has-property-descriptors/1.0.0",
+      "tarball": "https://registry.npmjs.org/has-property-descriptors/-/has-property-descriptors-1.0.0.tgz"
+    }
+  },
+  "object-keys": {
+    "1.1.1": {
+      "path": "/home/ialdama/.ultra-cache/object-keys/1.1.1",
+      "tarball": "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz"
+    }
+  }
+}

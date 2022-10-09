@@ -1,0 +1,14 @@
+{
+  "@pkgr/utils": {
+    "2.3.1": {
+      "path": "/home/ialdama/.ultra-cache/@pkgr/utils/2.3.1",
+      "tarball": "https://registry.npmjs.org/@pkgr/utils/-/utils-2.3.1.tgz"
+    }
+  },
+  "tslib": {
+    "2.4.0": {
+      "path": "/home/ialdama/.ultra-cache/tslib/2.4.0",
+      "tarball": "https://registry.npmjs.org/tslib/-/tslib-2.4.0.tgz"
+    }
+  }
+}

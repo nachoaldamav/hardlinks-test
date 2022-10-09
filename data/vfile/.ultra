@@ -1,0 +1,20 @@
+{
+  "is-buffer": {
+    "2.0.5": {
+      "path": "/home/ialdama/.ultra-cache/is-buffer/2.0.5",
+      "tarball": "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.5.tgz"
+    }
+  },
+  "unist-util-stringify-position": {
+    "3.0.2": {
+      "path": "/home/ialdama/.ultra-cache/unist-util-stringify-position/3.0.2",
+      "tarball": "https://registry.npmjs.org/unist-util-stringify-position/-/unist-util-stringify-position-3.0.2.tgz"
+    }
+  },
+  "vfile-message": {
+    "3.1.2": {
+      "path": "/home/ialdama/.ultra-cache/vfile-message/3.1.2",
+      "tarball": "https://registry.npmjs.org/vfile-message/-/vfile-message-3.1.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "character-entities": {
+    "2.0.2": {
+      "path": "/home/ialdama/.ultra-cache/character-entities/2.0.2",
+      "tarball": "https://registry.npmjs.org/character-entities/-/character-entities-2.0.2.tgz"
+    }
+  },
+  "character-entities-legacy": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/character-entities-legacy/3.0.0",
+      "tarball": "https://registry.npmjs.org/character-entities-legacy/-/character-entities-legacy-3.0.0.tgz"
+    }
+  },
+  "character-reference-invalid": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/character-reference-invalid/2.0.1",
+      "tarball": "https://registry.npmjs.org/character-reference-invalid/-/character-reference-invalid-2.0.1.tgz"
+    }
+  },
+  "is-alphanumerical": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/is-alphanumerical/2.0.1",
+      "tarball": "https://registry.npmjs.org/is-alphanumerical/-/is-alphanumerical-2.0.1.tgz"
+    }
+  },
+  "is-decimal": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/is-decimal/2.0.1",
+      "tarball": "https://registry.npmjs.org/is-decimal/-/is-decimal-2.0.1.tgz"
+    }
+  },
+  "is-hexadecimal": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/is-hexadecimal/2.0.1",
+      "tarball": "https://registry.npmjs.org/is-hexadecimal/-/is-hexadecimal-2.0.1.tgz"
+    }
+  }
+}

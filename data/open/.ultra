@@ -1,0 +1,20 @@
+{
+  "define-lazy-prop": {
+    "2.0.0": {
+      "path": "/home/ialdama/.ultra-cache/define-lazy-prop/2.0.0",
+      "tarball": "https://registry.npmjs.org/define-lazy-prop/-/define-lazy-prop-2.0.0.tgz"
+    }
+  },
+  "is-docker": {
+    "2.2.1": {
+      "path": "/home/ialdama/.ultra-cache/is-docker/2.2.1",
+      "tarball": "https://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz"
+    }
+  },
+  "is-wsl": {
+    "2.2.0": {
+      "path": "/home/ialdama/.ultra-cache/is-wsl/2.2.0",
+      "tarball": "https://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz"
+    }
+  }
+}

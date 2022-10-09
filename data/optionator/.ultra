@@ -1,0 +1,20 @@
+{
+  "deep-is": {
+    "0.1.4": {
+      "path": "/home/ialdama/.ultra-cache/deep-is/0.1.4",
+      "tarball": "https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz"
+    }
+  },
+  "word-wrap": {
+    "1.2.3": {
+      "path": "/home/ialdama/.ultra-cache/word-wrap/1.2.3",
+      "tarball": "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.3.tgz"
+    }
+  },
+  "fast-levenshtein": {
+    "2.0.6": {
+      "path": "/home/ialdama/.ultra-cache/fast-levenshtein/2.0.6",
+      "tarball": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
+    }
+  }
+}

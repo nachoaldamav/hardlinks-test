@@ -1,0 +1,14 @@
+{
+  "esrecurse": {
+    "4.3.0": {
+      "path": "/home/ialdama/.ultra-cache/esrecurse/4.3.0",
+      "tarball": "https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz"
+    }
+  },
+  "estraverse": {
+    "5.3.0": {
+      "path": "/home/ialdama/.ultra-cache/estraverse/5.3.0",
+      "tarball": "https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz"
+    }
+  }
+}

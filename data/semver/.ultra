@@ -1,0 +1,8 @@
+{
+  "lru-cache": {
+    "6.0.0": {
+      "path": "/home/ialdama/.ultra-cache/lru-cache/6.0.0",
+      "tarball": "https://registry.npmjs.org/lru-cache/-/lru-cache-6.0.0.tgz"
+    }
+  }
+}

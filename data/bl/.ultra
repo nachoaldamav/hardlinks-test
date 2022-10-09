@@ -1,0 +1,14 @@
+{
+  "buffer": {
+    "6.0.3": {
+      "path": "/home/ialdama/.ultra-cache/buffer/6.0.3",
+      "tarball": "https://registry.npmjs.org/buffer/-/buffer-6.0.3.tgz"
+    }
+  },
+  "readable-stream": {
+    "3.6.0": {
+      "path": "/home/ialdama/.ultra-cache/readable-stream/3.6.0",
+      "tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-3.6.0.tgz"
+    }
+  }
+}

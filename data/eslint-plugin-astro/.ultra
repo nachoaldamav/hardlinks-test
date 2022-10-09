@@ -1,0 +1,20 @@
+{
+  "astro-eslint-parser": {
+    "0.5.1": {
+      "path": "/home/ialdama/.ultra-cache/astro-eslint-parser/0.5.1",
+      "tarball": "https://registry.npmjs.org/astro-eslint-parser/-/astro-eslint-parser-0.5.1.tgz"
+    }
+  },
+  "postcss-selector-parser": {
+    "6.0.10": {
+      "path": "/home/ialdama/.ultra-cache/postcss-selector-parser/6.0.10",
+      "tarball": "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.0.10.tgz"
+    }
+  },
+  "sourcemap-codec": {
+    "1.4.8": {
+      "path": "/home/ialdama/.ultra-cache/sourcemap-codec/1.4.8",
+      "tarball": "https://registry.npmjs.org/sourcemap-codec/-/sourcemap-codec-1.4.8.tgz"
+    }
+  }
+}

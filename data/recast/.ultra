@@ -1,0 +1,20 @@
+{
+  "ast-types": {
+    "0.14.2": {
+      "path": "/home/ialdama/.ultra-cache/ast-types/0.14.2",
+      "tarball": "https://registry.npmjs.org/ast-types/-/ast-types-0.14.2.tgz"
+    }
+  },
+  "esprima": {
+    "4.0.1": {
+      "path": "/home/ialdama/.ultra-cache/esprima/4.0.1",
+      "tarball": "https://registry.npmjs.org/esprima/-/esprima-4.0.1.tgz"
+    }
+  },
+  "source-map": {
+    "0.6.1": {
+      "path": "/home/ialdama/.ultra-cache/source-map/0.6.1",
+      "tarball": "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
+    }
+  }
+}

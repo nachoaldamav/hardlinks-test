@@ -1,0 +1,14 @@
+{
+  "globalyzer": {
+    "0.1.0": {
+      "path": "/home/ialdama/.ultra-cache/globalyzer/0.1.0",
+      "tarball": "https://registry.npmjs.org/globalyzer/-/globalyzer-0.1.0.tgz"
+    }
+  },
+  "globrex": {
+    "0.1.2": {
+      "path": "/home/ialdama/.ultra-cache/globrex/0.1.2",
+      "tarball": "https://registry.npmjs.org/globrex/-/globrex-0.1.2.tgz"
+    }
+  }
+}

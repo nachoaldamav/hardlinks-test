@@ -1,0 +1,20 @@
+{
+  "@polka/url": {
+    "1.0.0-next.21": {
+      "path": "/home/ialdama/.ultra-cache/@polka/url/1.0.0-next.21",
+      "tarball": "https://registry.npmjs.org/@polka/url/-/url-1.0.0-next.21.tgz"
+    }
+  },
+  "mrmime": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/mrmime/1.0.1",
+      "tarball": "https://registry.npmjs.org/mrmime/-/mrmime-1.0.1.tgz"
+    }
+  },
+  "totalist": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/totalist/3.0.0",
+      "tarball": "https://registry.npmjs.org/totalist/-/totalist-3.0.0.tgz"
+    }
+  }
+}

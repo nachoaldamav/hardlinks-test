@@ -1,0 +1,32 @@
+{
+  "find-babel-config": {
+    "1.2.0": {
+      "path": "/home/ialdama/.ultra-cache/find-babel-config/1.2.0",
+      "tarball": "https://registry.npmjs.org/find-babel-config/-/find-babel-config-1.2.0.tgz"
+    }
+  },
+  "glob": {
+    "7.2.3": {
+      "path": "/home/ialdama/.ultra-cache/glob/7.2.3",
+      "tarball": "https://registry.npmjs.org/glob/-/glob-7.2.3.tgz"
+    }
+  },
+  "pkg-up": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/pkg-up/3.1.0",
+      "tarball": "https://registry.npmjs.org/pkg-up/-/pkg-up-3.1.0.tgz"
+    }
+  },
+  "reselect": {
+    "4.1.6": {
+      "path": "/home/ialdama/.ultra-cache/reselect/4.1.6",
+      "tarball": "https://registry.npmjs.org/reselect/-/reselect-4.1.6.tgz"
+    }
+  },
+  "resolve": {
+    "1.22.1": {
+      "path": "/home/ialdama/.ultra-cache/resolve/1.22.1",
+      "tarball": "https://registry.npmjs.org/resolve/-/resolve-1.22.1.tgz"
+    }
+  }
+}

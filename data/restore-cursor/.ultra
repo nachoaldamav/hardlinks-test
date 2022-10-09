@@ -1,0 +1,8 @@
+{
+  "onetime": {
+    "5.1.2": {
+      "path": "/home/ialdama/.ultra-cache/onetime/5.1.2",
+      "tarball": "https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "fs.realpath": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/fs.realpath/1.0.0",
+      "tarball": "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
+    }
+  },
+  "inflight": {
+    "1.0.6": {
+      "path": "/home/ialdama/.ultra-cache/inflight/1.0.6",
+      "tarball": "https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz"
+    }
+  },
+  "inherits": {
+    "2.0.4": {
+      "path": "/home/ialdama/.ultra-cache/inherits/2.0.4",
+      "tarball": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
+    }
+  },
+  "minimatch": {
+    "3.1.2": {
+      "path": "/home/ialdama/.ultra-cache/minimatch/3.1.2",
+      "tarball": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz"
+    }
+  },
+  "once": {
+    "1.4.0": {
+      "path": "/home/ialdama/.ultra-cache/once/1.4.0",
+      "tarball": "https://registry.npmjs.org/once/-/once-1.4.0.tgz"
+    }
+  },
+  "path-is-absolute": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/path-is-absolute/1.0.1",
+      "tarball": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+    }
+  }
+}

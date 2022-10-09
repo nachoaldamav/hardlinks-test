@@ -1,0 +1,20 @@
+{
+  "electron-to-chromium": {
+    "1.4.276": {
+      "path": "/home/ialdama/.ultra-cache/electron-to-chromium/1.4.276",
+      "tarball": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.276.tgz"
+    }
+  },
+  "node-releases": {
+    "2.0.6": {
+      "path": "/home/ialdama/.ultra-cache/node-releases/2.0.6",
+      "tarball": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.6.tgz"
+    }
+  },
+  "update-browserslist-db": {
+    "1.0.10": {
+      "path": "/home/ialdama/.ultra-cache/update-browserslist-db/1.0.10",
+      "tarball": "https://registry.npmjs.org/update-browserslist-db/-/update-browserslist-db-1.0.10.tgz"
+    }
+  }
+}

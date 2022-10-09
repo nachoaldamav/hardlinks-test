@@ -1,0 +1,20 @@
+{
+  "@typescript-eslint/visitor-keys": {
+    "5.36.2": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/visitor-keys/5.36.2",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/visitor-keys/-/visitor-keys-5.36.2.tgz"
+    }
+  },
+  "globby": {
+    "11.1.0": {
+      "path": "/home/ialdama/.ultra-cache/globby/11.1.0",
+      "tarball": "https://registry.npmjs.org/globby/-/globby-11.1.0.tgz"
+    }
+  },
+  "tsutils": {
+    "3.21.0": {
+      "path": "/home/ialdama/.ultra-cache/tsutils/3.21.0",
+      "tarball": "https://registry.npmjs.org/tsutils/-/tsutils-3.21.0.tgz"
+    }
+  }
+}

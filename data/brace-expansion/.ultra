@@ -1,0 +1,14 @@
+{
+  "balanced-match": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/balanced-match/1.0.2",
+      "tarball": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz"
+    }
+  },
+  "concat-map": {
+    "0.0.1": {
+      "path": "/home/ialdama/.ultra-cache/concat-map/0.0.1",
+      "tarball": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
+    }
+  }
+}

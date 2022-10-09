@@ -1,0 +1,14 @@
+{
+  "node-domexception": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/node-domexception/1.0.0",
+      "tarball": "https://registry.npmjs.org/node-domexception/-/node-domexception-1.0.0.tgz"
+    }
+  },
+  "web-streams-polyfill": {
+    "3.2.1": {
+      "path": "/home/ialdama/.ultra-cache/web-streams-polyfill/3.2.1",
+      "tarball": "https://registry.npmjs.org/web-streams-polyfill/-/web-streams-polyfill-3.2.1.tgz"
+    }
+  }
+}

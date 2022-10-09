@@ -1,0 +1,32 @@
+{
+  "boolean": {
+    "3.2.0": {
+      "path": "/home/ialdama/.ultra-cache/boolean/3.2.0",
+      "tarball": "https://registry.npmjs.org/boolean/-/boolean-3.2.0.tgz"
+    }
+  },
+  "es6-error": {
+    "4.1.1": {
+      "path": "/home/ialdama/.ultra-cache/es6-error/4.1.1",
+      "tarball": "https://registry.npmjs.org/es6-error/-/es6-error-4.1.1.tgz"
+    }
+  },
+  "matcher": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/matcher/3.0.0",
+      "tarball": "https://registry.npmjs.org/matcher/-/matcher-3.0.0.tgz"
+    }
+  },
+  "roarr": {
+    "2.15.4": {
+      "path": "/home/ialdama/.ultra-cache/roarr/2.15.4",
+      "tarball": "https://registry.npmjs.org/roarr/-/roarr-2.15.4.tgz"
+    }
+  },
+  "serialize-error": {
+    "7.0.1": {
+      "path": "/home/ialdama/.ultra-cache/serialize-error/7.0.1",
+      "tarball": "https://registry.npmjs.org/serialize-error/-/serialize-error-7.0.1.tgz"
+    }
+  }
+}

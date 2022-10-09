@@ -1,0 +1,14 @@
+{
+  "tr46": {
+    "0.0.3": {
+      "path": "/home/ialdama/.ultra-cache/tr46/0.0.3",
+      "tarball": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz"
+    }
+  },
+  "webidl-conversions": {
+    "3.0.1": {
+      "path": "/home/ialdama/.ultra-cache/webidl-conversions/3.0.1",
+      "tarball": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
+    }
+  }
+}

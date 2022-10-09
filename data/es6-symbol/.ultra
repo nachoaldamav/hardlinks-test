@@ -1,0 +1,8 @@
+{
+  "ext": {
+    "1.7.0": {
+      "path": "/home/ialdama/.ultra-cache/ext/1.7.0",
+      "tarball": "https://registry.npmjs.org/ext/-/ext-1.7.0.tgz"
+    }
+  }
+}

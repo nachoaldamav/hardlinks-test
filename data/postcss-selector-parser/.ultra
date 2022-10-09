@@ -1,0 +1,14 @@
+{
+  "cssesc": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/cssesc/3.0.0",
+      "tarball": "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz"
+    }
+  },
+  "util-deprecate": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/util-deprecate/1.0.2",
+      "tarball": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
+    }
+  }
+}

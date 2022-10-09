@@ -1,0 +1,26 @@
+{
+  "@types/json5": {
+    "0.0.29": {
+      "path": "/home/ialdama/.ultra-cache/@types/json5/0.0.29",
+      "tarball": "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
+    }
+  },
+  "json5": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/json5/1.0.1",
+      "tarball": "https://registry.npmjs.org/json5/-/json5-1.0.1.tgz"
+    }
+  },
+  "minimist": {
+    "1.2.6": {
+      "path": "/home/ialdama/.ultra-cache/minimist/1.2.6",
+      "tarball": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+    }
+  },
+  "strip-bom": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/strip-bom/3.0.0",
+      "tarball": "https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz"
+    }
+  }
+}

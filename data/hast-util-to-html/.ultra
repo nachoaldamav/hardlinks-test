@@ -1,0 +1,44 @@
+{
+  "ccount": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/ccount/2.0.1",
+      "tarball": "https://registry.npmjs.org/ccount/-/ccount-2.0.1.tgz"
+    }
+  },
+  "comma-separated-tokens": {
+    "2.0.2": {
+      "path": "/home/ialdama/.ultra-cache/comma-separated-tokens/2.0.2",
+      "tarball": "https://registry.npmjs.org/comma-separated-tokens/-/comma-separated-tokens-2.0.2.tgz"
+    }
+  },
+  "hast-util-is-element": {
+    "2.1.2": {
+      "path": "/home/ialdama/.ultra-cache/hast-util-is-element/2.1.2",
+      "tarball": "https://registry.npmjs.org/hast-util-is-element/-/hast-util-is-element-2.1.2.tgz"
+    }
+  },
+  "hast-util-whitespace": {
+    "2.0.0": {
+      "path": "/home/ialdama/.ultra-cache/hast-util-whitespace/2.0.0",
+      "tarball": "https://registry.npmjs.org/hast-util-whitespace/-/hast-util-whitespace-2.0.0.tgz"
+    }
+  },
+  "html-void-elements": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/html-void-elements/2.0.1",
+      "tarball": "https://registry.npmjs.org/html-void-elements/-/html-void-elements-2.0.1.tgz"
+    }
+  },
+  "space-separated-tokens": {
+    "2.0.1": {
+      "path": "/home/ialdama/.ultra-cache/space-separated-tokens/2.0.1",
+      "tarball": "https://registry.npmjs.org/space-separated-tokens/-/space-separated-tokens-2.0.1.tgz"
+    }
+  },
+  "stringify-entities": {
+    "4.0.3": {
+      "path": "/home/ialdama/.ultra-cache/stringify-entities/4.0.3",
+      "tarball": "https://registry.npmjs.org/stringify-entities/-/stringify-entities-4.0.3.tgz"
+    }
+  }
+}

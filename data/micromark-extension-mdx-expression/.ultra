@@ -1,0 +1,38 @@
+{
+  "micromark-factory-mdx-expression": {
+    "1.0.6": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-mdx-expression/1.0.6",
+      "tarball": "https://registry.npmjs.org/micromark-factory-mdx-expression/-/micromark-factory-mdx-expression-1.0.6.tgz"
+    }
+  },
+  "micromark-factory-space": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-space/1.0.0",
+      "tarball": "https://registry.npmjs.org/micromark-factory-space/-/micromark-factory-space-1.0.0.tgz"
+    }
+  },
+  "micromark-util-character": {
+    "1.1.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-character/1.1.0",
+      "tarball": "https://registry.npmjs.org/micromark-util-character/-/micromark-util-character-1.1.0.tgz"
+    }
+  },
+  "micromark-util-events-to-acorn": {
+    "1.2.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-events-to-acorn/1.2.0",
+      "tarball": "https://registry.npmjs.org/micromark-util-events-to-acorn/-/micromark-util-events-to-acorn-1.2.0.tgz"
+    }
+  },
+  "micromark-util-symbol": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-symbol/1.0.1",
+      "tarball": "https://registry.npmjs.org/micromark-util-symbol/-/micromark-util-symbol-1.0.1.tgz"
+    }
+  },
+  "uvu": {
+    "0.5.6": {
+      "path": "/home/ialdama/.ultra-cache/uvu/0.5.6",
+      "tarball": "https://registry.npmjs.org/uvu/-/uvu-0.5.6.tgz"
+    }
+  }
+}

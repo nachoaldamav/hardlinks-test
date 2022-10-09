@@ -1,0 +1,26 @@
+{
+  "find-up": {
+    "5.0.0": {
+      "path": "/home/ialdama/.ultra-cache/find-up/5.0.0",
+      "tarball": "https://registry.npmjs.org/find-up/-/find-up-5.0.0.tgz"
+    }
+  },
+  "find-yarn-workspace-root2": {
+    "1.2.16": {
+      "path": "/home/ialdama/.ultra-cache/find-yarn-workspace-root2/1.2.16",
+      "tarball": "https://registry.npmjs.org/find-yarn-workspace-root2/-/find-yarn-workspace-root2-1.2.16.tgz"
+    }
+  },
+  "path-exists": {
+    "4.0.0": {
+      "path": "/home/ialdama/.ultra-cache/path-exists/4.0.0",
+      "tarball": "https://registry.npmjs.org/path-exists/-/path-exists-4.0.0.tgz"
+    }
+  },
+  "which-pm": {
+    "2.0.0": {
+      "path": "/home/ialdama/.ultra-cache/which-pm/2.0.0",
+      "tarball": "https://registry.npmjs.org/which-pm/-/which-pm-2.0.0.tgz"
+    }
+  }
+}

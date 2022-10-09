@@ -1,0 +1,14 @@
+{
+  "eslint": {
+    "8.25.0": {
+      "path": "/home/ialdama/.ultra-cache/eslint/8.25.0",
+      "tarball": "https://registry.npmjs.org/eslint/-/eslint-8.25.0.tgz"
+    }
+  },
+  "eslint-plugin-n": {
+    "15.3.0": {
+      "path": "/home/ialdama/.ultra-cache/eslint-plugin-n/15.3.0",
+      "tarball": "https://registry.npmjs.org/eslint-plugin-n/-/eslint-plugin-n-15.3.0.tgz"
+    }
+  }
+}

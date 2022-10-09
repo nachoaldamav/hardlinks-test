@@ -1,0 +1,14 @@
+{
+  "eastasianwidth": {
+    "0.2.0": {
+      "path": "/home/ialdama/.ultra-cache/eastasianwidth/0.2.0",
+      "tarball": "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz"
+    }
+  },
+  "emoji-regex": {
+    "9.2.2": {
+      "path": "/home/ialdama/.ultra-cache/emoji-regex/9.2.2",
+      "tarball": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz"
+    }
+  }
+}

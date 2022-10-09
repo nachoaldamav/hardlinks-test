@@ -1,0 +1,32 @@
+{
+  "detect-node": {
+    "2.1.0": {
+      "path": "/home/ialdama/.ultra-cache/detect-node/2.1.0",
+      "tarball": "https://registry.npmjs.org/detect-node/-/detect-node-2.1.0.tgz"
+    }
+  },
+  "globalthis": {
+    "1.0.3": {
+      "path": "/home/ialdama/.ultra-cache/globalthis/1.0.3",
+      "tarball": "https://registry.npmjs.org/globalthis/-/globalthis-1.0.3.tgz"
+    }
+  },
+  "json-stringify-safe": {
+    "5.0.1": {
+      "path": "/home/ialdama/.ultra-cache/json-stringify-safe/5.0.1",
+      "tarball": "https://registry.npmjs.org/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz"
+    }
+  },
+  "semver-compare": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/semver-compare/1.0.0",
+      "tarball": "https://registry.npmjs.org/semver-compare/-/semver-compare-1.0.0.tgz"
+    }
+  },
+  "sprintf-js": {
+    "1.1.2": {
+      "path": "/home/ialdama/.ultra-cache/sprintf-js/1.1.2",
+      "tarball": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.2.tgz"
+    }
+  }
+}

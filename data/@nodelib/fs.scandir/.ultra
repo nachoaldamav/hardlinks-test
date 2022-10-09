@@ -1,0 +1,8 @@
+{
+  "run-parallel": {
+    "1.2.0": {
+      "path": "/home/ialdama/.ultra-cache/run-parallel/1.2.0",
+      "tarball": "https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz"
+    }
+  }
+}

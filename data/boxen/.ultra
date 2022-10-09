@@ -1,0 +1,44 @@
+{
+  "ansi-align": {
+    "3.0.1": {
+      "path": "/home/ialdama/.ultra-cache/ansi-align/3.0.1",
+      "tarball": "https://registry.npmjs.org/ansi-align/-/ansi-align-3.0.1.tgz"
+    }
+  },
+  "camelcase": {
+    "6.3.0": {
+      "path": "/home/ialdama/.ultra-cache/camelcase/6.3.0",
+      "tarball": "https://registry.npmjs.org/camelcase/-/camelcase-6.3.0.tgz"
+    }
+  },
+  "chalk": {
+    "4.1.2": {
+      "path": "/home/ialdama/.ultra-cache/chalk/4.1.2",
+      "tarball": "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
+    }
+  },
+  "cli-boxes": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/cli-boxes/3.0.0",
+      "tarball": "https://registry.npmjs.org/cli-boxes/-/cli-boxes-3.0.0.tgz"
+    }
+  },
+  "type-fest": {
+    "2.19.0": {
+      "path": "/home/ialdama/.ultra-cache/type-fest/2.19.0",
+      "tarball": "https://registry.npmjs.org/type-fest/-/type-fest-2.19.0.tgz"
+    }
+  },
+  "widest-line": {
+    "4.0.1": {
+      "path": "/home/ialdama/.ultra-cache/widest-line/4.0.1",
+      "tarball": "https://registry.npmjs.org/widest-line/-/widest-line-4.0.1.tgz"
+    }
+  },
+  "wrap-ansi": {
+    "8.0.1": {
+      "path": "/home/ialdama/.ultra-cache/wrap-ansi/8.0.1",
+      "tarball": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-8.0.1.tgz"
+    }
+  }
+}

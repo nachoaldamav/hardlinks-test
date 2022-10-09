@@ -1,0 +1,26 @@
+{
+  "anymatch": {
+    "3.1.2": {
+      "path": "/home/ialdama/.ultra-cache/anymatch/3.1.2",
+      "tarball": "https://registry.npmjs.org/anymatch/-/anymatch-3.1.2.tgz"
+    }
+  },
+  "is-binary-path": {
+    "2.1.0": {
+      "path": "/home/ialdama/.ultra-cache/is-binary-path/2.1.0",
+      "tarball": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz"
+    }
+  },
+  "readdirp": {
+    "3.6.0": {
+      "path": "/home/ialdama/.ultra-cache/readdirp/3.6.0",
+      "tarball": "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz"
+    }
+  },
+  "fsevents": {
+    "2.3.2": {
+      "path": "/home/ialdama/.ultra-cache/fsevents/2.3.2",
+      "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
+    }
+  }
+}

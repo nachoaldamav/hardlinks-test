@@ -1,0 +1,14 @@
+{
+  "graceful-fs": {
+    "4.2.10": {
+      "path": "/home/ialdama/.ultra-cache/graceful-fs/4.2.10",
+      "tarball": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz"
+    }
+  },
+  "pify": {
+    "4.0.1": {
+      "path": "/home/ialdama/.ultra-cache/pify/4.0.1",
+      "tarball": "https://registry.npmjs.org/pify/-/pify-4.0.1.tgz"
+    }
+  }
+}

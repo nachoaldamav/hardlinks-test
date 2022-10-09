@@ -1,0 +1,14 @@
+{
+  "@jridgewell/gen-mapping": {
+    "0.1.1": {
+      "path": "/home/ialdama/.ultra-cache/@jridgewell/gen-mapping/0.1.1",
+      "tarball": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz"
+    }
+  },
+  "@jridgewell/trace-mapping": {
+    "0.3.16": {
+      "path": "/home/ialdama/.ultra-cache/@jridgewell/trace-mapping/0.3.16",
+      "tarball": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.16.tgz"
+    }
+  }
+}

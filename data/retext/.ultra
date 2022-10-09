@@ -1,0 +1,14 @@
+{
+  "retext-latin": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/retext-latin/3.1.0",
+      "tarball": "https://registry.npmjs.org/retext-latin/-/retext-latin-3.1.0.tgz"
+    }
+  },
+  "retext-stringify": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/retext-stringify/3.1.0",
+      "tarball": "https://registry.npmjs.org/retext-stringify/-/retext-stringify-3.1.0.tgz"
+    }
+  }
+}

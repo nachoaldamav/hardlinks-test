@@ -1,0 +1,26 @@
+{
+  "bail": {
+    "2.0.2": {
+      "path": "/home/ialdama/.ultra-cache/bail/2.0.2",
+      "tarball": "https://registry.npmjs.org/bail/-/bail-2.0.2.tgz"
+    }
+  },
+  "extend": {
+    "3.0.2": {
+      "path": "/home/ialdama/.ultra-cache/extend/3.0.2",
+      "tarball": "https://registry.npmjs.org/extend/-/extend-3.0.2.tgz"
+    }
+  },
+  "is-plain-obj": {
+    "4.1.0": {
+      "path": "/home/ialdama/.ultra-cache/is-plain-obj/4.1.0",
+      "tarball": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-4.1.0.tgz"
+    }
+  },
+  "trough": {
+    "2.1.0": {
+      "path": "/home/ialdama/.ultra-cache/trough/2.1.0",
+      "tarball": "https://registry.npmjs.org/trough/-/trough-2.1.0.tgz"
+    }
+  }
+}

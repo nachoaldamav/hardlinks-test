@@ -1,0 +1,8 @@
+{
+  "punycode": {
+    "2.1.1": {
+      "path": "/home/ialdama/.ultra-cache/punycode/2.1.1",
+      "tarball": "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz"
+    }
+  }
+}

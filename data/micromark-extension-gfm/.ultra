@@ -1,0 +1,38 @@
+{
+  "micromark-extension-gfm-autolink-literal": {
+    "1.0.3": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-autolink-literal/1.0.3",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-autolink-literal/-/micromark-extension-gfm-autolink-literal-1.0.3.tgz"
+    }
+  },
+  "micromark-extension-gfm-footnote": {
+    "1.0.4": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-footnote/1.0.4",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-footnote/-/micromark-extension-gfm-footnote-1.0.4.tgz"
+    }
+  },
+  "micromark-extension-gfm-strikethrough": {
+    "1.0.4": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-strikethrough/1.0.4",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-strikethrough/-/micromark-extension-gfm-strikethrough-1.0.4.tgz"
+    }
+  },
+  "micromark-extension-gfm-table": {
+    "1.0.5": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-table/1.0.5",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-table/-/micromark-extension-gfm-table-1.0.5.tgz"
+    }
+  },
+  "micromark-extension-gfm-tagfilter": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-tagfilter/1.0.1",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-tagfilter/-/micromark-extension-gfm-tagfilter-1.0.1.tgz"
+    }
+  },
+  "micromark-extension-gfm-task-list-item": {
+    "1.0.3": {
+      "path": "/home/ialdama/.ultra-cache/micromark-extension-gfm-task-list-item/1.0.3",
+      "tarball": "https://registry.npmjs.org/micromark-extension-gfm-task-list-item/-/micromark-extension-gfm-task-list-item-1.0.3.tgz"
+    }
+  }
+}

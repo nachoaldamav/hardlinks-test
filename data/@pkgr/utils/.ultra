@@ -1,0 +1,32 @@
+{
+  "cross-spawn": {
+    "7.0.3": {
+      "path": "/home/ialdama/.ultra-cache/cross-spawn/7.0.3",
+      "tarball": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
+    }
+  },
+  "is-glob": {
+    "4.0.3": {
+      "path": "/home/ialdama/.ultra-cache/is-glob/4.0.3",
+      "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz"
+    }
+  },
+  "open": {
+    "8.4.0": {
+      "path": "/home/ialdama/.ultra-cache/open/8.4.0",
+      "tarball": "https://registry.npmjs.org/open/-/open-8.4.0.tgz"
+    }
+  },
+  "picocolors": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/picocolors/1.0.0",
+      "tarball": "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
+    }
+  },
+  "tiny-glob": {
+    "0.2.9": {
+      "path": "/home/ialdama/.ultra-cache/tiny-glob/0.2.9",
+      "tarball": "https://registry.npmjs.org/tiny-glob/-/tiny-glob-0.2.9.tgz"
+    }
+  }
+}

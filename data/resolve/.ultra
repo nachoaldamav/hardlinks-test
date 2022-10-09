@@ -1,0 +1,14 @@
+{
+  "path-parse": {
+    "1.0.7": {
+      "path": "/home/ialdama/.ultra-cache/path-parse/1.0.7",
+      "tarball": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz"
+    }
+  },
+  "supports-preserve-symlinks-flag": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/supports-preserve-symlinks-flag/1.0.0",
+      "tarball": "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "has-bigints": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/has-bigints/1.0.2",
+      "tarball": "https://registry.npmjs.org/has-bigints/-/has-bigints-1.0.2.tgz"
+    }
+  },
+  "which-boxed-primitive": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/which-boxed-primitive/1.0.2",
+      "tarball": "https://registry.npmjs.org/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz"
+    }
+  }
+}

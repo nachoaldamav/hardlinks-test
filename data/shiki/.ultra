@@ -1,0 +1,20 @@
+{
+  "jsonc-parser": {
+    "3.2.0": {
+      "path": "/home/ialdama/.ultra-cache/jsonc-parser/3.2.0",
+      "tarball": "https://registry.npmjs.org/jsonc-parser/-/jsonc-parser-3.2.0.tgz"
+    }
+  },
+  "vscode-oniguruma": {
+    "1.6.2": {
+      "path": "/home/ialdama/.ultra-cache/vscode-oniguruma/1.6.2",
+      "tarball": "https://registry.npmjs.org/vscode-oniguruma/-/vscode-oniguruma-1.6.2.tgz"
+    }
+  },
+  "vscode-textmate": {
+    "6.0.0": {
+      "path": "/home/ialdama/.ultra-cache/vscode-textmate/6.0.0",
+      "tarball": "https://registry.npmjs.org/vscode-textmate/-/vscode-textmate-6.0.0.tgz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "is-bigint": {
+    "1.0.4": {
+      "path": "/home/ialdama/.ultra-cache/is-bigint/1.0.4",
+      "tarball": "https://registry.npmjs.org/is-bigint/-/is-bigint-1.0.4.tgz"
+    }
+  },
+  "is-boolean-object": {
+    "1.1.2": {
+      "path": "/home/ialdama/.ultra-cache/is-boolean-object/1.1.2",
+      "tarball": "https://registry.npmjs.org/is-boolean-object/-/is-boolean-object-1.1.2.tgz"
+    }
+  },
+  "is-number-object": {
+    "1.0.7": {
+      "path": "/home/ialdama/.ultra-cache/is-number-object/1.0.7",
+      "tarball": "https://registry.npmjs.org/is-number-object/-/is-number-object-1.0.7.tgz"
+    }
+  }
+}

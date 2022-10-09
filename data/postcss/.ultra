@@ -1,0 +1,14 @@
+{
+  "nanoid": {
+    "3.3.4": {
+      "path": "/home/ialdama/.ultra-cache/nanoid/3.3.4",
+      "tarball": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.4.tgz"
+    }
+  },
+  "source-map-js": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/source-map-js/1.0.2",
+      "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.0.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "global-agent": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/global-agent/3.0.0",
+      "tarball": "https://registry.npmjs.org/global-agent/-/global-agent-3.0.0.tgz"
+    }
+  },
+  "node-fetch": {
+    "3.2.10": {
+      "path": "/home/ialdama/.ultra-cache/node-fetch/3.2.10",
+      "tarball": "https://registry.npmjs.org/node-fetch/-/node-fetch-3.2.10.tgz"
+    }
+  }
+}

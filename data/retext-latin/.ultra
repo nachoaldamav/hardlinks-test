@@ -1,0 +1,14 @@
+{
+  "parse-latin": {
+    "5.0.0": {
+      "path": "/home/ialdama/.ultra-cache/parse-latin/5.0.0",
+      "tarball": "https://registry.npmjs.org/parse-latin/-/parse-latin-5.0.0.tgz"
+    }
+  },
+  "unherit": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/unherit/3.0.0",
+      "tarball": "https://registry.npmjs.org/unherit/-/unherit-3.0.0.tgz"
+    }
+  }
+}

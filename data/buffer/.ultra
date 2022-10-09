@@ -1,0 +1,14 @@
+{
+  "base64-js": {
+    "1.5.1": {
+      "path": "/home/ialdama/.ultra-cache/base64-js/1.5.1",
+      "tarball": "https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz"
+    }
+  },
+  "ieee754": {
+    "1.2.1": {
+      "path": "/home/ialdama/.ultra-cache/ieee754/1.2.1",
+      "tarball": "https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz"
+    }
+  }
+}

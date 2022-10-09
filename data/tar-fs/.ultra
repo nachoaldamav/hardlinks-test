@@ -1,0 +1,20 @@
+{
+  "chownr": {
+    "1.1.4": {
+      "path": "/home/ialdama/.ultra-cache/chownr/1.1.4",
+      "tarball": "https://registry.npmjs.org/chownr/-/chownr-1.1.4.tgz"
+    }
+  },
+  "mkdirp": {
+    "0.5.6": {
+      "path": "/home/ialdama/.ultra-cache/mkdirp/0.5.6",
+      "tarball": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.6.tgz"
+    }
+  },
+  "tar-stream": {
+    "2.2.0": {
+      "path": "/home/ialdama/.ultra-cache/tar-stream/2.2.0",
+      "tarball": "https://registry.npmjs.org/tar-stream/-/tar-stream-2.2.0.tgz"
+    }
+  }
+}

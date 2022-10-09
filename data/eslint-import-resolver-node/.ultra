@@ -1,0 +1,8 @@
+{
+  "debug": {
+    "3.2.7": {
+      "path": "/home/ialdama/.ultra-cache/debug/3.2.7",
+      "tarball": "https://registry.npmjs.org/debug/-/debug-3.2.7.tgz"
+    }
+  }
+}

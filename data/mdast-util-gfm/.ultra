@@ -1,0 +1,32 @@
+{
+  "mdast-util-gfm-autolink-literal": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm-autolink-literal/1.0.2",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm-autolink-literal/-/mdast-util-gfm-autolink-literal-1.0.2.tgz"
+    }
+  },
+  "mdast-util-gfm-footnote": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm-footnote/1.0.1",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm-footnote/-/mdast-util-gfm-footnote-1.0.1.tgz"
+    }
+  },
+  "mdast-util-gfm-strikethrough": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm-strikethrough/1.0.1",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm-strikethrough/-/mdast-util-gfm-strikethrough-1.0.1.tgz"
+    }
+  },
+  "mdast-util-gfm-table": {
+    "1.0.6": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm-table/1.0.6",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm-table/-/mdast-util-gfm-table-1.0.6.tgz"
+    }
+  },
+  "mdast-util-gfm-task-list-item": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-gfm-task-list-item/1.0.1",
+      "tarball": "https://registry.npmjs.org/mdast-util-gfm-task-list-item/-/mdast-util-gfm-task-list-item-1.0.1.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "acorn": {
+    "8.8.0": {
+      "path": "/home/ialdama/.ultra-cache/acorn/8.8.0",
+      "tarball": "https://registry.npmjs.org/acorn/-/acorn-8.8.0.tgz"
+    }
+  },
+  "acorn-jsx": {
+    "5.3.2": {
+      "path": "/home/ialdama/.ultra-cache/acorn-jsx/5.3.2",
+      "tarball": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@types/phoenix": {
+    "1.5.4": {
+      "path": "/home/ialdama/.ultra-cache/@types/phoenix/1.5.4",
+      "tarball": "https://registry.npmjs.org/@types/phoenix/-/phoenix-1.5.4.tgz"
+    }
+  },
+  "websocket": {
+    "1.0.34": {
+      "path": "/home/ialdama/.ultra-cache/websocket/1.0.34",
+      "tarball": "https://registry.npmjs.org/websocket/-/websocket-1.0.34.tgz"
+    }
+  }
+}

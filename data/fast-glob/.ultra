@@ -1,0 +1,26 @@
+{
+  "@nodelib/fs.stat": {
+    "2.0.5": {
+      "path": "/home/ialdama/.ultra-cache/@nodelib/fs.stat/2.0.5",
+      "tarball": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz"
+    }
+  },
+  "@nodelib/fs.walk": {
+    "1.2.8": {
+      "path": "/home/ialdama/.ultra-cache/@nodelib/fs.walk/1.2.8",
+      "tarball": "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz"
+    }
+  },
+  "glob-parent": {
+    "5.1.2": {
+      "path": "/home/ialdama/.ultra-cache/glob-parent/5.1.2",
+      "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz"
+    }
+  },
+  "micromatch": {
+    "4.0.5": {
+      "path": "/home/ialdama/.ultra-cache/micromatch/4.0.5",
+      "tarball": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.5.tgz"
+    }
+  }
+}

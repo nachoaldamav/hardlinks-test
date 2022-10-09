@@ -1,0 +1,26 @@
+{
+  "@typescript-eslint/scope-manager": {
+    "5.36.2": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/scope-manager/5.36.2",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/scope-manager/-/scope-manager-5.36.2.tgz"
+    }
+  },
+  "@typescript-eslint/types": {
+    "5.36.2": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/types/5.36.2",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/types/-/types-5.36.2.tgz"
+    }
+  },
+  "@typescript-eslint/typescript-estree": {
+    "5.36.2": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/typescript-estree/5.36.2",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-5.36.2.tgz"
+    }
+  },
+  "debug": {
+    "4.3.4": {
+      "path": "/home/ialdama/.ultra-cache/debug/4.3.4",
+      "tarball": "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
+    }
+  }
+}

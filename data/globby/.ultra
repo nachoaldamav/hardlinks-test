@@ -1,0 +1,32 @@
+{
+  "array-union": {
+    "2.1.0": {
+      "path": "/home/ialdama/.ultra-cache/array-union/2.1.0",
+      "tarball": "https://registry.npmjs.org/array-union/-/array-union-2.1.0.tgz"
+    }
+  },
+  "dir-glob": {
+    "3.0.1": {
+      "path": "/home/ialdama/.ultra-cache/dir-glob/3.0.1",
+      "tarball": "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.1.tgz"
+    }
+  },
+  "fast-glob": {
+    "3.2.12": {
+      "path": "/home/ialdama/.ultra-cache/fast-glob/3.2.12",
+      "tarball": "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.12.tgz"
+    }
+  },
+  "merge2": {
+    "1.4.1": {
+      "path": "/home/ialdama/.ultra-cache/merge2/1.4.1",
+      "tarball": "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz"
+    }
+  },
+  "slash": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/slash/3.0.0",
+      "tarball": "https://registry.npmjs.org/slash/-/slash-3.0.0.tgz"
+    }
+  }
+}

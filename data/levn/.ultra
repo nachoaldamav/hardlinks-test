@@ -1,0 +1,14 @@
+{
+  "prelude-ls": {
+    "1.2.1": {
+      "path": "/home/ialdama/.ultra-cache/prelude-ls/1.2.1",
+      "tarball": "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz"
+    }
+  },
+  "type-check": {
+    "0.4.0": {
+      "path": "/home/ialdama/.ultra-cache/type-check/0.4.0",
+      "tarball": "https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz"
+    }
+  }
+}

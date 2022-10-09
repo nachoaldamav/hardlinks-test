@@ -1,0 +1,14 @@
+{
+  "@astrojs/webapi": {
+    "1.1.0": {
+      "path": "/home/ialdama/.ultra-cache/@astrojs/webapi/1.1.0",
+      "tarball": "https://registry.npmjs.org/@astrojs/webapi/-/webapi-1.1.0.tgz"
+    }
+  },
+  "esbuild": {
+    "0.14.54": {
+      "path": "/home/ialdama/.ultra-cache/esbuild/0.14.54",
+      "tarball": "https://registry.npmjs.org/esbuild/-/esbuild-0.14.54.tgz"
+    }
+  }
+}

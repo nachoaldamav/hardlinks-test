@@ -1,0 +1,20 @@
+{
+  "@astrojs/compiler": {
+    "0.23.5": {
+      "path": "/home/ialdama/.ultra-cache/@astrojs/compiler/0.23.5",
+      "tarball": "https://registry.npmjs.org/@astrojs/compiler/-/compiler-0.23.5.tgz"
+    }
+  },
+  "sass-formatter": {
+    "0.7.5": {
+      "path": "/home/ialdama/.ultra-cache/sass-formatter/0.7.5",
+      "tarball": "https://registry.npmjs.org/sass-formatter/-/sass-formatter-0.7.5.tgz"
+    }
+  },
+  "synckit": {
+    "0.7.3": {
+      "path": "/home/ialdama/.ultra-cache/synckit/0.7.3",
+      "tarball": "https://registry.npmjs.org/synckit/-/synckit-0.7.3.tgz"
+    }
+  }
+}

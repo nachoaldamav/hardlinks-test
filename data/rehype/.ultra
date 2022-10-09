@@ -1,0 +1,26 @@
+{
+  "@types/hast": {
+    "2.3.4": {
+      "path": "/home/ialdama/.ultra-cache/@types/hast/2.3.4",
+      "tarball": "https://registry.npmjs.org/@types/hast/-/hast-2.3.4.tgz"
+    }
+  },
+  "rehype-parse": {
+    "8.0.4": {
+      "path": "/home/ialdama/.ultra-cache/rehype-parse/8.0.4",
+      "tarball": "https://registry.npmjs.org/rehype-parse/-/rehype-parse-8.0.4.tgz"
+    }
+  },
+  "rehype-stringify": {
+    "9.0.3": {
+      "path": "/home/ialdama/.ultra-cache/rehype-stringify/9.0.3",
+      "tarball": "https://registry.npmjs.org/rehype-stringify/-/rehype-stringify-9.0.3.tgz"
+    }
+  },
+  "unified": {
+    "10.1.2": {
+      "path": "/home/ialdama/.ultra-cache/unified/10.1.2",
+      "tarball": "https://registry.npmjs.org/unified/-/unified-10.1.2.tgz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "@types/nlcst": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/@types/nlcst/1.0.0",
+      "tarball": "https://registry.npmjs.org/@types/nlcst/-/nlcst-1.0.0.tgz"
+    }
+  },
+  "nlcst-to-string": {
+    "3.1.0": {
+      "path": "/home/ialdama/.ultra-cache/nlcst-to-string/3.1.0",
+      "tarball": "https://registry.npmjs.org/nlcst-to-string/-/nlcst-to-string-3.1.0.tgz"
+    }
+  }
+}

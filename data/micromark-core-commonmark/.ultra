@@ -1,0 +1,32 @@
+{
+  "micromark-factory-destination": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-destination/1.0.0",
+      "tarball": "https://registry.npmjs.org/micromark-factory-destination/-/micromark-factory-destination-1.0.0.tgz"
+    }
+  },
+  "micromark-factory-label": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-label/1.0.2",
+      "tarball": "https://registry.npmjs.org/micromark-factory-label/-/micromark-factory-label-1.0.2.tgz"
+    }
+  },
+  "micromark-factory-title": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-title/1.0.2",
+      "tarball": "https://registry.npmjs.org/micromark-factory-title/-/micromark-factory-title-1.0.2.tgz"
+    }
+  },
+  "micromark-factory-whitespace": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-factory-whitespace/1.0.0",
+      "tarball": "https://registry.npmjs.org/micromark-factory-whitespace/-/micromark-factory-whitespace-1.0.0.tgz"
+    }
+  },
+  "micromark-util-html-tag-name": {
+    "1.1.0": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-html-tag-name/1.1.0",
+      "tarball": "https://registry.npmjs.org/micromark-util-html-tag-name/-/micromark-util-html-tag-name-1.1.0.tgz"
+    }
+  }
+}

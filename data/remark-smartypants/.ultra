@@ -1,0 +1,14 @@
+{
+  "retext": {
+    "8.1.0": {
+      "path": "/home/ialdama/.ultra-cache/retext/8.1.0",
+      "tarball": "https://registry.npmjs.org/retext/-/retext-8.1.0.tgz"
+    }
+  },
+  "retext-smartypants": {
+    "5.2.0": {
+      "path": "/home/ialdama/.ultra-cache/retext-smartypants/5.2.0",
+      "tarball": "https://registry.npmjs.org/retext-smartypants/-/retext-smartypants-5.2.0.tgz"
+    }
+  }
+}

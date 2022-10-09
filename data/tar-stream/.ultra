@@ -1,0 +1,14 @@
+{
+  "bl": {
+    "4.1.0": {
+      "path": "/home/ialdama/.ultra-cache/bl/4.1.0",
+      "tarball": "https://registry.npmjs.org/bl/-/bl-4.1.0.tgz"
+    }
+  },
+  "fs-constants": {
+    "1.0.0": {
+      "path": "/home/ialdama/.ultra-cache/fs-constants/1.0.0",
+      "tarball": "https://registry.npmjs.org/fs-constants/-/fs-constants-1.0.0.tgz"
+    }
+  }
+}

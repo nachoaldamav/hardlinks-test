@@ -1,0 +1,14 @@
+{
+  "braces": {
+    "3.0.2": {
+      "path": "/home/ialdama/.ultra-cache/braces/3.0.2",
+      "tarball": "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
+    }
+  },
+  "picomatch": {
+    "2.3.1": {
+      "path": "/home/ialdama/.ultra-cache/picomatch/2.3.1",
+      "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
+    }
+  }
+}

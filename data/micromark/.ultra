@@ -1,0 +1,14 @@
+{
+  "@types/debug": {
+    "4.1.7": {
+      "path": "/home/ialdama/.ultra-cache/@types/debug/4.1.7",
+      "tarball": "https://registry.npmjs.org/@types/debug/-/debug-4.1.7.tgz"
+    }
+  },
+  "micromark-util-subtokenize": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/micromark-util-subtokenize/1.0.2",
+      "tarball": "https://registry.npmjs.org/micromark-util-subtokenize/-/micromark-util-subtokenize-1.0.2.tgz"
+    }
+  }
+}

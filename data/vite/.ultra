@@ -1,0 +1,8 @@
+{
+  "terser": {
+    "5.15.1": {
+      "path": "/home/ialdama/.ultra-cache/terser/5.15.1",
+      "tarball": "https://registry.npmjs.org/terser/-/terser-5.15.1.tgz"
+    }
+  }
+}

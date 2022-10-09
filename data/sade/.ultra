@@ -1,0 +1,8 @@
+{
+  "mri": {
+    "1.2.0": {
+      "path": "/home/ialdama/.ultra-cache/mri/1.2.0",
+      "tarball": "https://registry.npmjs.org/mri/-/mri-1.2.0.tgz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "@proload/core": {
+    "0.3.3": {
+      "path": "/home/ialdama/.ultra-cache/@proload/core/0.3.3",
+      "tarball": "https://registry.npmjs.org/@proload/core/-/core-0.3.3.tgz"
+    }
+  },
+  "autoprefixer": {
+    "10.4.12": {
+      "path": "/home/ialdama/.ultra-cache/autoprefixer/10.4.12",
+      "tarball": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.12.tgz"
+    }
+  },
+  "postcss": {
+    "8.4.17": {
+      "path": "/home/ialdama/.ultra-cache/postcss/8.4.17",
+      "tarball": "https://registry.npmjs.org/postcss/-/postcss-8.4.17.tgz"
+    }
+  }
+}

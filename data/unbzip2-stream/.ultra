@@ -1,0 +1,14 @@
+{
+  "buffer": {
+    "5.7.1": {
+      "path": "/home/ialdama/.ultra-cache/buffer/5.7.1",
+      "tarball": "https://registry.npmjs.org/buffer/-/buffer-5.7.1.tgz"
+    }
+  },
+  "through": {
+    "2.3.8": {
+      "path": "/home/ialdama/.ultra-cache/through/2.3.8",
+      "tarball": "https://registry.npmjs.org/through/-/through-2.3.8.tgz"
+    }
+  }
+}

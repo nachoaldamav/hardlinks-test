@@ -1,0 +1,32 @@
+{
+  "bufferutil": {
+    "4.0.6": {
+      "path": "/home/ialdama/.ultra-cache/bufferutil/4.0.6",
+      "tarball": "https://registry.npmjs.org/bufferutil/-/bufferutil-4.0.6.tgz"
+    }
+  },
+  "es5-ext": {
+    "0.10.62": {
+      "path": "/home/ialdama/.ultra-cache/es5-ext/0.10.62",
+      "tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.62.tgz"
+    }
+  },
+  "typedarray-to-buffer": {
+    "3.1.5": {
+      "path": "/home/ialdama/.ultra-cache/typedarray-to-buffer/3.1.5",
+      "tarball": "https://registry.npmjs.org/typedarray-to-buffer/-/typedarray-to-buffer-3.1.5.tgz"
+    }
+  },
+  "utf-8-validate": {
+    "5.0.9": {
+      "path": "/home/ialdama/.ultra-cache/utf-8-validate/5.0.9",
+      "tarball": "https://registry.npmjs.org/utf-8-validate/-/utf-8-validate-5.0.9.tgz"
+    }
+  },
+  "yaeti": {
+    "0.0.6": {
+      "path": "/home/ialdama/.ultra-cache/yaeti/0.0.6",
+      "tarball": "https://registry.npmjs.org/yaeti/-/yaeti-0.0.6.tgz"
+    }
+  }
+}

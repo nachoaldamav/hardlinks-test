@@ -1,0 +1,8 @@
+{
+  "@typescript-eslint/typescript-estree": {
+    "5.39.0": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/typescript-estree/5.39.0",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/typescript-estree/-/typescript-estree-5.39.0.tgz"
+    }
+  }
+}

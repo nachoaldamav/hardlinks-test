@@ -1,0 +1,14 @@
+{
+  "@emmetio/abbreviation": {
+    "2.2.3": {
+      "path": "/home/ialdama/.ultra-cache/@emmetio/abbreviation/2.2.3",
+      "tarball": "https://registry.npmjs.org/@emmetio/abbreviation/-/abbreviation-2.2.3.tgz"
+    }
+  },
+  "@emmetio/css-abbreviation": {
+    "2.1.4": {
+      "path": "/home/ialdama/.ultra-cache/@emmetio/css-abbreviation/2.1.4",
+      "tarball": "https://registry.npmjs.org/@emmetio/css-abbreviation/-/css-abbreviation-2.1.4.tgz"
+    }
+  }
+}

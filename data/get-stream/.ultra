@@ -1,0 +1,8 @@
+{
+  "pump": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/pump/3.0.0",
+      "tarball": "https://registry.npmjs.org/pump/-/pump-3.0.0.tgz"
+    }
+  }
+}

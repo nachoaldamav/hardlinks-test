@@ -1,0 +1,8 @@
+{
+  "queue-microtask": {
+    "1.2.3": {
+      "path": "/home/ialdama/.ultra-cache/queue-microtask/1.2.3",
+      "tarball": "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "@eslint/eslintrc": {
+    "1.3.3": {
+      "path": "/home/ialdama/.ultra-cache/@eslint/eslintrc/1.3.3",
+      "tarball": "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.3.tgz"
+    }
+  },
+  "@humanwhocodes/config-array": {
+    "0.10.7": {
+      "path": "/home/ialdama/.ultra-cache/@humanwhocodes/config-array/0.10.7",
+      "tarball": "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.10.7.tgz"
+    }
+  },
+  "@humanwhocodes/gitignore-to-minimatch": {
+    "1.0.2": {
+      "path": "/home/ialdama/.ultra-cache/@humanwhocodes/gitignore-to-minimatch/1.0.2",
+      "tarball": "https://registry.npmjs.org/@humanwhocodes/gitignore-to-minimatch/-/gitignore-to-minimatch-1.0.2.tgz"
+    }
+  },
+  "@humanwhocodes/module-importer": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/@humanwhocodes/module-importer/1.0.1",
+      "tarball": "https://registry.npmjs.org/@humanwhocodes/module-importer/-/module-importer-1.0.1.tgz"
+    }
+  },
+  "ajv": {
+    "6.12.6": {
+      "path": "/home/ialdama/.ultra-cache/ajv/6.12.6",
+      "tarball": "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz"
+    }
+  },
+  "doctrine": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/doctrine/3.0.0",
+      "tarball": "https://registry.npmjs.org/doctrine/-/doctrine-3.0.0.tgz"
+    }
+  },
+  "eslint-scope": {
+    "7.1.1": {
+      "path": "/home/ialdama/.ultra-cache/eslint-scope/7.1.1",
+      "tarball": "https://registry.npmjs.org/eslint-scope/-/eslint-scope-7.1.1.tgz"
+    }
+  },
+  "esquery": {
+    "1.4.0": {
+      "path": "/home/ialdama/.ultra-cache/esquery/1.4.0",
+      "tarball": "https://registry.npmjs.org/esquery/-/esquery-1.4.0.tgz"
+    }
+  },
+  "fast-deep-equal": {
+    "3.1.3": {
+      "path": "/home/ialdama/.ultra-cache/fast-deep-equal/3.1.3",
+      "tarball": "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
+    }
+  },
+  "file-entry-cache": {
+    "6.0.1": {
+      "path": "/home/ialdama/.ultra-cache/file-entry-cache/6.0.1",
+      "tarball": "https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
+    }
+  },
+  "functional-red-black-tree": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/functional-red-black-tree/1.0.1",
+      "tarball": "https://registry.npmjs.org/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz"
+    }
+  },
+  "globals": {
+    "13.17.0": {
+      "path": "/home/ialdama/.ultra-cache/globals/13.17.0",
+      "tarball": "https://registry.npmjs.org/globals/-/globals-13.17.0.tgz"
+    }
+  },
+  "grapheme-splitter": {
+    "1.0.4": {
+      "path": "/home/ialdama/.ultra-cache/grapheme-splitter/1.0.4",
+      "tarball": "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz"
+    }
+  },
+  "import-fresh": {
+    "3.3.0": {
+      "path": "/home/ialdama/.ultra-cache/import-fresh/3.3.0",
+      "tarball": "https://registry.npmjs.org/import-fresh/-/import-fresh-3.3.0.tgz"
+    }
+  },
+  "imurmurhash": {
+    "0.1.4": {
+      "path": "/home/ialdama/.ultra-cache/imurmurhash/0.1.4",
+      "tarball": "https://registry.npmjs.org/imurmurhash/-/imurmurhash-0.1.4.tgz"
+    }
+  },
+  "js-yaml": {
+    "4.1.0": {
+      "path": "/home/ialdama/.ultra-cache/js-yaml/4.1.0",
+      "tarball": "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
+    }
+  },
+  "json-stable-stringify-without-jsonify": {
+    "1.0.1": {
+      "path": "/home/ialdama/.ultra-cache/json-stable-stringify-without-jsonify/1.0.1",
+      "tarball": "https://registry.npmjs.org/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
+    }
+  },
+  "levn": {
+    "0.4.1": {
+      "path": "/home/ialdama/.ultra-cache/levn/0.4.1",
+      "tarball": "https://registry.npmjs.org/levn/-/levn-0.4.1.tgz"
+    }
+  },
+  "lodash.merge": {
+    "4.6.2": {
+      "path": "/home/ialdama/.ultra-cache/lodash.merge/4.6.2",
+      "tarball": "https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz"
+    }
+  },
+  "natural-compare": {
+    "1.4.0": {
+      "path": "/home/ialdama/.ultra-cache/natural-compare/1.4.0",
+      "tarball": "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
+    }
+  },
+  "optionator": {
+    "0.9.1": {
+      "path": "/home/ialdama/.ultra-cache/optionator/0.9.1",
+      "tarball": "https://registry.npmjs.org/optionator/-/optionator-0.9.1.tgz"
+    }
+  },
+  "strip-json-comments": {
+    "3.1.1": {
+      "path": "/home/ialdama/.ultra-cache/strip-json-comments/3.1.1",
+      "tarball": "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-3.1.1.tgz"
+    }
+  },
+  "text-table": {
+    "0.2.0": {
+      "path": "/home/ialdama/.ultra-cache/text-table/0.2.0",
+      "tarball": "https://registry.npmjs.org/text-table/-/text-table-0.2.0.tgz"
+    }
+  }
+}

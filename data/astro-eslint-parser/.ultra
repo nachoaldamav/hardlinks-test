@@ -1,0 +1,14 @@
+{
+  "espree": {
+    "9.4.0": {
+      "path": "/home/ialdama/.ultra-cache/espree/9.4.0",
+      "tarball": "https://registry.npmjs.org/espree/-/espree-9.4.0.tgz"
+    }
+  },
+  "synckit": {
+    "0.8.4": {
+      "path": "/home/ialdama/.ultra-cache/synckit/0.8.4",
+      "tarball": "https://registry.npmjs.org/synckit/-/synckit-0.8.4.tgz"
+    }
+  }
+}

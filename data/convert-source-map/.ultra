@@ -1,0 +1,8 @@
+{
+  "safe-buffer": {
+    "5.1.2": {
+      "path": "/home/ialdama/.ultra-cache/safe-buffer/5.1.2",
+      "tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz"
+    }
+  }
+}

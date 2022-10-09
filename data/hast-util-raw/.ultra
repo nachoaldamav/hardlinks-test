@@ -1,0 +1,20 @@
+{
+  "hast-util-to-parse5": {
+    "7.0.0": {
+      "path": "/home/ialdama/.ultra-cache/hast-util-to-parse5/7.0.0",
+      "tarball": "https://registry.npmjs.org/hast-util-to-parse5/-/hast-util-to-parse5-7.0.0.tgz"
+    }
+  },
+  "unist-util-position": {
+    "4.0.3": {
+      "path": "/home/ialdama/.ultra-cache/unist-util-position/4.0.3",
+      "tarball": "https://registry.npmjs.org/unist-util-position/-/unist-util-position-4.0.3.tgz"
+    }
+  },
+  "zwitch": {
+    "2.0.2": {
+      "path": "/home/ialdama/.ultra-cache/zwitch/2.0.2",
+      "tarball": "https://registry.npmjs.org/zwitch/-/zwitch-2.0.2.tgz"
+    }
+  }
+}

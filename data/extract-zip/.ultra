@@ -1,0 +1,20 @@
+{
+  "get-stream": {
+    "5.2.0": {
+      "path": "/home/ialdama/.ultra-cache/get-stream/5.2.0",
+      "tarball": "https://registry.npmjs.org/get-stream/-/get-stream-5.2.0.tgz"
+    }
+  },
+  "yauzl": {
+    "2.10.0": {
+      "path": "/home/ialdama/.ultra-cache/yauzl/2.10.0",
+      "tarball": "https://registry.npmjs.org/yauzl/-/yauzl-2.10.0.tgz"
+    }
+  },
+  "@types/yauzl": {
+    "2.10.0": {
+      "path": "/home/ialdama/.ultra-cache/@types/yauzl/2.10.0",
+      "tarball": "https://registry.npmjs.org/@types/yauzl/-/yauzl-2.10.0.tgz"
+    }
+  }
+}

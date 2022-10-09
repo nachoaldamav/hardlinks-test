@@ -1,0 +1,14 @@
+{
+  "is-date-object": {
+    "1.0.5": {
+      "path": "/home/ialdama/.ultra-cache/is-date-object/1.0.5",
+      "tarball": "https://registry.npmjs.org/is-date-object/-/is-date-object-1.0.5.tgz"
+    }
+  },
+  "is-symbol": {
+    "1.0.4": {
+      "path": "/home/ialdama/.ultra-cache/is-symbol/1.0.4",
+      "tarball": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.4.tgz"
+    }
+  }
+}

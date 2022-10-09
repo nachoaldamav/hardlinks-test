@@ -1,0 +1,32 @@
+{
+  "browserslist": {
+    "4.21.4": {
+      "path": "/home/ialdama/.ultra-cache/browserslist/4.21.4",
+      "tarball": "https://registry.npmjs.org/browserslist/-/browserslist-4.21.4.tgz"
+    }
+  },
+  "caniuse-lite": {
+    "1.0.30001418": {
+      "path": "/home/ialdama/.ultra-cache/caniuse-lite/1.0.30001418",
+      "tarball": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001418.tgz"
+    }
+  },
+  "fraction.js": {
+    "4.2.0": {
+      "path": "/home/ialdama/.ultra-cache/fraction.js/4.2.0",
+      "tarball": "https://registry.npmjs.org/fraction.js/-/fraction.js-4.2.0.tgz"
+    }
+  },
+  "normalize-range": {
+    "0.1.2": {
+      "path": "/home/ialdama/.ultra-cache/normalize-range/0.1.2",
+      "tarball": "https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz"
+    }
+  },
+  "postcss-value-parser": {
+    "4.2.0": {
+      "path": "/home/ialdama/.ultra-cache/postcss-value-parser/4.2.0",
+      "tarball": "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
+    }
+  }
+}

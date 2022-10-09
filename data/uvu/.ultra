@@ -1,0 +1,14 @@
+{
+  "dequal": {
+    "2.0.3": {
+      "path": "/home/ialdama/.ultra-cache/dequal/2.0.3",
+      "tarball": "https://registry.npmjs.org/dequal/-/dequal-2.0.3.tgz"
+    }
+  },
+  "sade": {
+    "1.8.1": {
+      "path": "/home/ialdama/.ultra-cache/sade/1.8.1",
+      "tarball": "https://registry.npmjs.org/sade/-/sade-1.8.1.tgz"
+    }
+  }
+}

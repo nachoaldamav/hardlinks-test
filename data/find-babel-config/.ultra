@@ -1,0 +1,14 @@
+{
+  "json5": {
+    "0.5.1": {
+      "path": "/home/ialdama/.ultra-cache/json5/0.5.1",
+      "tarball": "https://registry.npmjs.org/json5/-/json5-0.5.1.tgz"
+    }
+  },
+  "path-exists": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/path-exists/3.0.0",
+      "tarball": "https://registry.npmjs.org/path-exists/-/path-exists-3.0.0.tgz"
+    }
+  }
+}

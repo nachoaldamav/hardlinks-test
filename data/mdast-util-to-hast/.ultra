@@ -1,0 +1,26 @@
+{
+  "mdast-util-definitions": {
+    "5.1.1": {
+      "path": "/home/ialdama/.ultra-cache/mdast-util-definitions/5.1.1",
+      "tarball": "https://registry.npmjs.org/mdast-util-definitions/-/mdast-util-definitions-5.1.1.tgz"
+    }
+  },
+  "trim-lines": {
+    "3.0.1": {
+      "path": "/home/ialdama/.ultra-cache/trim-lines/3.0.1",
+      "tarball": "https://registry.npmjs.org/trim-lines/-/trim-lines-3.0.1.tgz"
+    }
+  },
+  "unist-builder": {
+    "3.0.0": {
+      "path": "/home/ialdama/.ultra-cache/unist-builder/3.0.0",
+      "tarball": "https://registry.npmjs.org/unist-builder/-/unist-builder-3.0.0.tgz"
+    }
+  },
+  "unist-util-generated": {
+    "2.0.0": {
+      "path": "/home/ialdama/.ultra-cache/unist-util-generated/2.0.0",
+      "tarball": "https://registry.npmjs.org/unist-util-generated/-/unist-util-generated-2.0.0.tgz"
+    }
+  }
+}

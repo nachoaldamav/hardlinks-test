@@ -1,0 +1,14 @@
+{
+  "eslint-utils": {
+    "2.1.0": {
+      "path": "/home/ialdama/.ultra-cache/eslint-utils/2.1.0",
+      "tarball": "https://registry.npmjs.org/eslint-utils/-/eslint-utils-2.1.0.tgz"
+    }
+  },
+  "regexpp": {
+    "3.2.0": {
+      "path": "/home/ialdama/.ultra-cache/regexpp/3.2.0",
+      "tarball": "https://registry.npmjs.org/regexpp/-/regexpp-3.2.0.tgz"
+    }
+  }
+}

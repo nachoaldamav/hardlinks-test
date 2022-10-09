@@ -1,0 +1,8 @@
+{
+  "micromark-core-commonmark": {
+    "1.0.6": {
+      "path": "/home/ialdama/.ultra-cache/micromark-core-commonmark/1.0.6",
+      "tarball": "https://registry.npmjs.org/micromark-core-commonmark/-/micromark-core-commonmark-1.0.6.tgz"
+    }
+  }
+}

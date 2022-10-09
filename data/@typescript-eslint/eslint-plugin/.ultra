@@ -1,0 +1,20 @@
+{
+  "@typescript-eslint/scope-manager": {
+    "5.39.0": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/scope-manager/5.39.0",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/scope-manager/-/scope-manager-5.39.0.tgz"
+    }
+  },
+  "@typescript-eslint/type-utils": {
+    "5.39.0": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/type-utils/5.39.0",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/type-utils/-/type-utils-5.39.0.tgz"
+    }
+  },
+  "@typescript-eslint/utils": {
+    "5.39.0": {
+      "path": "/home/ialdama/.ultra-cache/@typescript-eslint/utils/5.39.0",
+      "tarball": "https://registry.npmjs.org/@typescript-eslint/utils/-/utils-5.39.0.tgz"
+    }
+  }
+}

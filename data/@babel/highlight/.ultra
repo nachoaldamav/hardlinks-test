@@ -1,0 +1,14 @@
+{
+  "chalk": {
+    "2.4.2": {
+      "path": "/home/ialdama/.ultra-cache/chalk/2.4.2",
+      "tarball": "https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz"
+    }
+  },
+  "js-tokens": {
+    "4.0.0": {
+      "path": "/home/ialdama/.ultra-cache/js-tokens/4.0.0",
+      "tarball": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz"
+    }
+  }
+}

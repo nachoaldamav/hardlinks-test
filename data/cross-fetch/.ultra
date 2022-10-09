@@ -1,0 +1,8 @@
+{
+  "node-fetch": {
+    "2.6.7": {
+      "path": "/home/ialdama/.ultra-cache/node-fetch/2.6.7",
+      "tarball": "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.7.tgz"
+    }
+  }
+}
